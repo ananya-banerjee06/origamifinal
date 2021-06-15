@@ -1,0 +1,23 @@
+.bird{
+background-image: url("sky.jpg");
+border:solid;
+}
+
+.whale{
+background-image: url("https://www.afeinbergphotography.com/images/xl/2011-12-01_124site-Oceans-XI.jpg");
+border:solid;
+}
+
+.turtle{
+background-image: url("https://thumbs.dreamstime.com/b/realistic-vector-seascape-sea-ocean-horizon-beach-horizontal-seamless-background-calm-white-sand-blue-sky-93079415.jpg");
+border:solid;
+}
+
+a:hover{
+    background-color:yellow;
+}
+
+head{
+    background-image: url("https://media.istockphoto.com/photos/the-dark-background-with-spangles-horizontal-long-format-banner-picture-id873267722?k=6&m=873267722&s=170667a&w=0&h=O7RtEMb1Sa0UMEq7NXg5k3uWjCpBrbptMXmKGu8JBUc=");
+}
+
